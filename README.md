@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy JohaSo 👋 
 
-<!--
-**JohaSo/JohaSo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚔️ Forjadora Backend & Arquitecta de APIs
+Me apasiona construir la lógica robusta que sostiene las experiencias digitales, con un enfoque en la eficiencia y el código limpio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Taller de Desarrollo (Duoc UC, 2do año)
+- **Especialidad:** Desarrollo de Software (Enfoque Backend).
+- **Herramientas:** Visual Studio Code, Git, Postman.
+- **En formación:** Profundizando en arquitecturas escalables y gestión de datos.
+
+---
+
+### 🌐 Conecta con mi trabajo
+- [Explora mis APIs en Postman](https://www.postman.com/johaso)
+
+*"La verdadera magia ocurre en el servidor."*
