@@ -14,5 +14,6 @@ Me apasiona construir la lógica robusta que sostiene las experiencias digitales
 
 ### 🌐 Conecta con mi trabajo
 - [Explora mis APIs en Postman](https://www.postman.com/johaso)
+- [Conecta conmigo en LinkedIn](https://www.linkedin.com/in/johanna-vegas-alarcon)
 
 *"La verdadera magia ocurre en el servidor."*
