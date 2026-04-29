@@ -1,4 +1,4 @@
-# ¡Hola! Soy JohaSo 👋 
+# ¡Hola! Soy Johanna alias JohaSo 👋 
 
 ### ⚔️ Forjadora Backend & Arquitecta de APIs
 Me apasiona construir la lógica robusta que sostiene las experiencias digitales, con un enfoque en la eficiencia y el código limpio.
