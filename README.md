@@ -1,4 +1,6 @@
-# ¡Hola! Soy Johanna alias JohaSo 👋 
+# ¡Hola! Soy Johanna, alias JohaSo 👋
+
+---
 
 ### ⚔️ Forjadora Backend & Arquitecta de APIs
 Me apasiona construir la lógica robusta que sostiene las experiencias digitales, con un enfoque en la eficiencia y el código limpio.
@@ -6,9 +8,10 @@ Me apasiona construir la lógica robusta que sostiene las experiencias digitales
 ---
 
 ### 🛠️ Mi Taller de Desarrollo (Duoc UC, 2do año)
-- **Especialidad:** Desarrollo de Software (Enfoque Backend).
-- **Herramientas:** Visual Studio Code, Git, Postman.
-- **En formación:** Profundizando en arquitecturas escalables y gestión de datos.
+
+* **Especialidad:** Desarrollo de Software (Enfoque Backend).
+* **Herramientas:** Visual Studio Code, Git, Postman.
+* **Filosofía de Código Puro:** Aunque entiendo y manejo herramientas de IA, prefiero la "vieja escuela" de codificar a mano. Me aseguro de que cada línea sea fruto de mi propio razonamiento y lógica, sin depender de automatizaciones para entender el *porqué* de las cosas.
 
 ---
 
