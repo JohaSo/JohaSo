@@ -43,10 +43,6 @@
 
 ### 𓍢ִ໋🌷͙֒ Conecta con mi trabajo 𓍢ִ໋🌷͙֒
 
-<p align="left">
-  <a href="https://www.postman.com/johaso" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  </a>
   <a href="https://www.linkedin.com/in/johanna-vegas-alarcon/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
